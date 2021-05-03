@@ -192,5 +192,5 @@ class SnakeGame {
         return this;
     } 
 }
-
+if (message.author.bot) return;
 module.exports = SnakeGame;
